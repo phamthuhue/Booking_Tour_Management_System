@@ -1,0 +1,59 @@
+[
+  {
+    "tourId": "681c137bb7e1685ffb7f9dd2",
+    "services": [
+      {
+        "serviceId": "682efa2fc3da4111179609e3",
+        "numberOfPeopl": 30,
+        "servicePrice": 10500000,
+        "note": "Gói buffet cho đoàn khách quốc tế"
+      },
+      {
+        "serviceId": "682efa2fc3da4111179609e5",
+        "numberOfPeopl": 1,
+        "servicePrice": 1200000,
+        "note": "Thuê xe đi từ Đà Nẵng đến Hội An"
+      },
+      {
+        "serviceId": "682efa2fc3da4111179609e6",
+        "numberOfPeopl": 20,
+        "servicePrice": 9000000,
+        "note": "Bữa trưa ngày đầu tiên"
+      }
+    ]
+  },
+  {
+    "tourId": "681c137bb7e1685ffb7f9dd7",
+    "services": [
+      {
+        "serviceId": "682efa2fc3da4111179609e4",
+        "numberOfPeopl": 10,
+        "servicePrice": 15000000,
+        "note": "Combo nghỉ dưỡng cao cấp, 5 phòng đôi"
+      },
+      {
+        "serviceId": "682efa2fc3da4111179609e7",
+        "numberOfPeopl": 4,
+        "servicePrice": 10000000,
+        "note": "Phòng suite cho khách VIP"
+      }
+    ]
+  },
+  {
+    "tourId": "681c137bb7e1685ffb7f9dd4",
+    "services": [
+      {
+        "serviceId": "682efa2fc3da4111179609e5",
+        "numberOfPeopl": 2,
+        "servicePrice": 2400000,
+        "note": "Thuê xe cho 2 ngày tại Huế"
+      },
+      {
+        "serviceId": "682efa2fc3da4111179609e3",
+        "numberOfPeopl": 15,
+        "servicePrice": 5250000,
+        "note": "Buffet trưa cho đoàn học sinh"
+      }
+    ]
+  }
+]
